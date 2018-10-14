@@ -8,7 +8,7 @@ It includes there main blocks:
 - A Text block to load important information from the data file.
 - Weather indicators where each color represents different strength.
 
-The runing picture of the source code is:
+The runing image of the source code is `weatherInterface.png`.
 
-![](weatherInterface.png)
+
 
